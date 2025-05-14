@@ -1,5 +1,5 @@
 <?php
-const HOST = '13.233.101.56'; // e.g., '172.31.XX.XX' or 'ec2-XX-XX-XX-XX.compute.amazonaws.com'
+const HOST = ''; // e.g., '172.31.XX.XX' or 'ec2-XX-XX-XX-XX.compute.amazonaws.com'
 const USERNAME = 'todo_user';
 const PASSWORD = 'admin';
 const DBNAME   = 'todo';
